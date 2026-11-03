@@ -22,5 +22,15 @@
     "images": [
       "images/1a1a2abdecbdacc5-1.jpeg"
     ]
+  },
+  {
+    "id": "1a1a383227b062ce",
+    "name": "Dave Dell'Aquila",
+    "email": "dave@dellaquila.com",
+    "date": "2026-11-03T14:23:50-08:00",
+    "paragraphs": [],
+    "images": [
+      "images/1a1a383227b062ce-1.jpeg"
+    ]
   }
 ]
