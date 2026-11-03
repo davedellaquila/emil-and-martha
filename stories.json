@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "1a1a2421061b7a88",
+    "name": "Dave Dell'Aquila",
+    "email": "dave@dellaquila.com",
+    "date": "2026-11-03T08:33:12-08:00",
+    "paragraphs": [
+      "Here’s an early shot of my dad and his Air Force uniform, this was probably taken in the early 1950s"
+    ],
+    "images": [
+      "images/1a1a2421061b7a88-1.jpeg"
+    ]
+  }
+]
