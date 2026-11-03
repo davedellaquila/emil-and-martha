@@ -23,6 +23,14 @@ An intake job watches Dave's inbox for that subject, appends each story to
 `stories.json` (photos land in `images/`), and pushes. The page renders purely
 from `stories.json`, so each push simply appears on the wall.
 
+Every photograph on the wall opens in a full-screen lightbox when tapped or
+clicked (the same viewer pattern as the Gazette papers): the photo is shown
+as large as the viewport allows on a dark backdrop; close with the ✕ button,
+a tap on the backdrop, or Esc. When a story has more than one photograph,
+prev/next arrows, arrow keys, and swipe move between them, with a small
+position count ("2 / 3"). The viewer is wired at render time from
+`stories.json`, so stories added by the intake job get it automatically.
+
 ### stories.json format
 
 ```json
