@@ -48,5 +48,17 @@
     "images": [
       "images/1a1a3e1346f15aac-1.jpeg"
     ]
+  },
+  {
+    "id": "1a1a3e2dc1ded0d9",
+    "name": "Dave Dell'Aquila",
+    "email": "dave@dellaquila.com",
+    "date": "2026-11-03T16:08:32-08:00",
+    "paragraphs": [
+      "Mom being taken for a drive in the ‘68 MGB-GT with Nan at the controls."
+    ],
+    "images": [
+      "images/1a1a3e2dc1ded0d9-1.jpeg"
+    ]
   }
 ]
