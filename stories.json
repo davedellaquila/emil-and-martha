@@ -60,5 +60,17 @@
     "images": [
       "images/1a1a3e2dc1ded0d9-1.jpeg"
     ]
+  },
+  {
+    "id": "1a1a3e449552b70f",
+    "name": "Dave Dell'Aquila",
+    "email": "dave@dellaquila.com",
+    "date": "2026-11-03T16:10:06-08:00",
+    "paragraphs": [
+      "Mom loved her Italian food!"
+    ],
+    "images": [
+      "images/1a1a3e449552b70f-1.jpeg"
+    ]
   }
 ]
