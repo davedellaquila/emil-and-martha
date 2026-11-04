@@ -36,5 +36,17 @@
     "images": [
       "images/1a1a383227b062ce-1.jpeg"
     ]
+  },
+  {
+    "id": "1a1a3e1346f15aac",
+    "name": "Dave Dell'Aquila",
+    "email": "dave@dellaquila.com",
+    "date": "2026-11-03T16:06:43-08:00",
+    "paragraphs": [
+      "Here’s a shot of mom looking slightly hippy-ish in our 1966 Opel Kadett."
+    ],
+    "images": [
+      "images/1a1a3e1346f15aac-1.jpeg"
+    ]
   }
 ]
